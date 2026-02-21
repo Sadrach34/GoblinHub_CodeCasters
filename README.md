@@ -264,4 +264,4 @@ npm run type     # Verifica tipos (TypeScript)
 
 ---
 
-**Actualizado:** 13 de febrero de 2026asasa
+**Actualizado:** 13 de febrero de 2026
